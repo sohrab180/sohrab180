@@ -5,6 +5,15 @@ A results-driven **MEAN Stack Developer** with extensive experience in architect
 
 ---
 
+## Contact:  
+📞 +91-9958146555  
+📧 [alisohrab0555@gmail.com](mailto:alisohrab0555@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/developersohrabali/) | [GitHub](https://github.com/sohrab180)  
+📍 Gurgaon, Haryana  
+
+
+
+
 ## 🔧 Core Technical Expertise
 
 <div align="center">
@@ -116,6 +125,94 @@ A results-driven **MEAN Stack Developer** with extensive experience in architect
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
 
 ---
+## 🚀 Projects  
+### **resumeocean.com**  
+**Description:**  
+An AI-powered resume builder and career guidance platform.  
+**Key Features:**  
+- Payment gateway integration  
+- OTP generation  
+- Digital resume creation  
+- Create resumes in just 5 minutes  
+- Seamlessly integrates ATS optimization and resume scoring features  
+**Technologies Used:**  
+- Angular 16, Node.js, Express.js, MongoDB Atlas, AWS-S3  
+
+---
+
+### **stuintern.com**  
+**Description:**  
+An internship and training platform for students and job seekers, offering personalized mentorship and job assistance.  
+**Key Features:**  
+- Payment gateway integration  
+- Zoom meeting API  
+- OTP generation  
+- Attendance tracker  
+**Technologies Used:**  
+- Angular 16, Node.js, Express.js, MongoDB Atlas, AWS-S3  
+
+---
+
+### **anushram.com**  
+**Description:**  
+A learning platform for research scholars, providing resources for Ph.D. program aspirants.  
+**Technologies Used:**  
+- Angular 14, Node.js, Express.js, MongoDB Atlas, AWS-S3  
+
+---
+
+### **vidyapun.com**  
+**Description:**  
+A learning platform offering resources for research scholars pursuing Ph.D. programs.  
+**Technologies Used:**  
+- Angular 18, Node.js, Express.js, MongoDB Atlas, AWS-S3  
+
+---
+
+
+
+### **Lead Management System (LMS)**  
+**Description:**  
+A system to track business performance and grow sales by managing leads efficiently.  
+**Key Features:**  
+- Dynamic lead tracking and prioritization based on various parameters  
+- Role-based access control for secure data handling  
+- Real-time notifications and email alerts for leads and follow-ups
+ 
+**Technologies Used:** Angular, Node.js, Express.js, MongoDB, AWS-S3
+
+---
+### **mytriptaxi.com**  
+**Description:**  
+A taxi booking platform for seamless and reliable transportation services.  
+**Key Features:**  
+- Intuitive booking system  
+- Payment gateway integration  
+- Real-time taxi tracking
+  
+**Technologies Used:** Angular, Node.js, MongoDB  
+
+---
+
+### **rodway.in**  
+**Description:**  
+A personal project for taxi booking, providing reliable and affordable transportation solutions.  
+**Key Features:**  
+- User-friendly interface for quick bookings  
+- Payment gateway integration  
+- Advanced ride scheduling and tracking
+  
+**Technologies Used:** Angular, Node.js, Express.js, MongoDB  
+
+---
+
+## 🌟 Achievements  
+- Successfully delivered scalable and secure web applications aligned with business goals.  
+- Designed and implemented a lead management system, improving lead conversion rates by 30%.  
+- Mentored junior developers, fostering a culture of innovation and technical excellence.  
+
+---
+
 
 ## 📊 GitHub Stats
 
