@@ -1,6 +1,6 @@
-# 🚀 Sohraab Ali Ansaari - Senior MEAN Stack Developer
+# 🚀 Sohrab Ali Ansari - Senior MEAN Stack Developer
 
-👋 Hi, I'm **Sohraab Ali Ansaari**  
+👋 Hi, I'm **Sohrab Ali Ansari**  
 A results-driven **MEAN Stack Developer** with extensive experience in architecting and implementing enterprise-level web applications. I specialize in developing scalable solutions using **MongoDB**, **Express.js**, **Angular**, and **Node.js**, with a proven track record of independently managing complex projects from conception to deployment. My expertise lies in **e-learning platforms**, **job portals**, **lead management system**, and **assessment systems**, coupled with strong leadership skills to mentor junior developers.
 
 ---
