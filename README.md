@@ -6,8 +6,8 @@ A results-driven **MEAN Stack Developer** with extensive experience in architect
 ---
 
 ## Contact:  
-📞 +91-9958146555  
-📧 [alisohrab0555@gmail.com](mailto:alisohrab0555@gmail.com)  
+📞 +91-9199770786  
+📧 [sohrabali180@gmail.com](mailto:sohrabali180@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/developersohrabali/) | [GitHub](https://github.com/sohrab180)  
 📍 Gurgaon, Haryana  
 
